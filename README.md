@@ -16,6 +16,8 @@ Vous disposez des données suivantes :
 - Un référentiel client
 - Un référentiel produit
 
+![schema!](https://github.com/Junjiecode/Python-CRM-sales-data-analyst-/blob/main/image.png)
+
 Pour rappel :
 - 1 achat = 1 NUM_ACHAT unique (un ticket de caisse en magasin ou sur le WEB)
 - 1 article = 1 MCVT unique (un soutien-gorge, un t-shirt…)
