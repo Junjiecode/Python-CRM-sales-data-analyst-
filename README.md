@@ -1,3 +1,4 @@
+![fashion!](https://github.com/Junjiecode/Python-CRM-sales-data-analyst-/blob/main/1000_F_334796865_VVTjg49nbLgQPG6rgKDjVqSb5XUhBVsW.jpg)
 # Python-CRM-sales-data-analyst-
 
 In this project, I am going to analyze the CRM sales data of a prestigious female fashion brand, I will use both Python and SQL to analyze it, to check my SQL answer worksheet, please click on: 
